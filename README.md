@@ -1,3 +1,3 @@
-# Recepten3
+# Receptenboek
 
-Dit is een receptenboek
+Dit is een receptenboek om taarten te bakken
