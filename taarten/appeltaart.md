@@ -6,7 +6,7 @@
 - 150g botter
 - 100g suiker
 - 1 ei
-- 4 appels
+- 12 appels
 
 ## Bereiding
 
